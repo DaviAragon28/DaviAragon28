@@ -1,6 +1,6 @@
 - 👋 Hi, I’m David Aragón
-- 👀 I'm a Junior Frontend Developer who has knowledge in HTML, CSS, JS, ANGULAR, SASS
-- 🌱 I’m currently learning React.js, Node.js
+- 👀 I'm a Junior Frontend Developer who has knowledge in HTML, CSS, JS, REACT, TAILWIND
+- 🌱 I’m currently learning Node.js, NextJS
 - 📫 How to reach me davidaragon007@gmail.com
 
 <!---
