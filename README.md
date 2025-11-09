@@ -35,7 +35,7 @@ Desde entonces, he trabajado en proyectos que van desde aplicaciones móviles ha
 
 ## 🌐 Encuéntrame en
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/david-arag%C3%B3n-462aa8238/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/david-e-aragon/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=fff)](https://davidaragon.vercel.app/es)
 [![Email](https://img.shields.io/badge/Email-333?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:davidaragonandrade@gmail.com)
 
